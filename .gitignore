@@ -16,7 +16,7 @@ $RECYCLE.BIN/
 *.log
 log.txt
 npm-debug.log*
-
+.vscode/
 /.idea
 /.ionic
 /.sass-cache
@@ -25,7 +25,7 @@ npm-debug.log*
 /.vscode/*
 !/.vscode/extensions.json
 /coverage
-/dist
+
 /node_modules
 /platforms
 /plugins
